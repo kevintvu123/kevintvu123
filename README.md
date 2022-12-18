@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kevin Vu and I am an aspiring Software Engineer
+My name is Kevin Vu
 
 ### About Me : 
 
