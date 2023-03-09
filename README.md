@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Software Engineer with experience building dynamic and scalable web applications in JavaScript, Python, React.js, Redux.js, SQL and HTML/CSS</h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F7F3&center=true&width=435&lines=Always+learning+new+things;Searching+for+new+opportunities;Natural+problem-solver)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F7F3&center=true&width=435&lines=Always+learning+new+things;Searching+for+new+opportunities;Natural+problem-solver" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on [PeakTrade](https://github.com/kevintvu123/PeakTrade)
