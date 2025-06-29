@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Vu</h1>
-<h3 align="center">Fullstack Software Engineer with experience building dynamic and scalable web applications in JavaScript, Python, React.js, Redux.js, SQL and HTML/CSS</h3>
+<h3 align="center">I’m a software engineer currently working as an Automation Engineer III at QA Wolf, where I build internal tools to support our QA teams and external-facing features that improve the client experience. Over the past few years, I’ve grown from QA Engineer to senior leadership and development roles, gaining deep experience across testing, tooling, and fullstack development.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F7F3&center=true&width=435&lines=Always+learning+new+things;Searching+for+new+opportunities;Natural+problem-solver" alt="Typing SVG" /></a>
 </p>
-
-- 📫 How to reach me **kevintvu123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
