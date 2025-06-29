@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Vu</h1>
+<h1 align="center">Hey there 👋 I'm Kevin Vu! Welcome to my Github!</h1>
 <h3 align="center">I’m a software engineer currently working as an Automation Engineer III at QA Wolf, where I build internal tools to support our QA teams and external-facing features that improve the client experience </h3>
 
 <h3 align="center">Outside of work, I’m always building! You’ll find some of my personal passion projects here on GitHub, where I explore new technologies and continue expanding my technical skills</h3>
