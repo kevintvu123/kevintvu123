@@ -5,10 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F7F3&center=true&width=435&lines=Always+learning+new+things;Searching+for+new+opportunities;Natural+problem-solver" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on [PeakTrade](https://github.com/kevintvu123/PeakTrade)
-
-- 👨‍💻 All of my projects are available at [https://kevintvu.me/](https://kevintvu.me/)
-
 - 📫 How to reach me **kevintvu123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
